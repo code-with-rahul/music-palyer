@@ -1,7 +1,7 @@
 const Audios = [
   {
     title: 'Classic beat',
-    artist: ' By Pixababy',
+    artist: ' By Pixabay',
     file: 'https://cdn.pixabay.com/download/audio/2023/08/18/audio_6b90a94871.mp3?filename=dont-stop-me-abstract-future-bass-162753.mp3',
     image: 'cover 1.jpg'
   },
